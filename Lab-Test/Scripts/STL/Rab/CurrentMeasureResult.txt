@@ -1,0 +1,43 @@
+ch>
+ch> boost 1 0
+Setting voltage to 0.000000000 (DAC:3209)
+ch> boost 2 0
+Setting voltage to 0.000000000 (DAC:3209)
+ch> adc
+Voltages as seen on the ADC inputs of the STM32.
+ PumpBoostVoltage1: 0.186914056 V
+      PumpCurrent1: 0.391552716 V Current Measured at 0.009V
+     PumpPressure1: 1.278588891 V
+
+ PumpBoostVoltage2: 0.251367181 V
+      PumpCurrent2: 0.361743152 V
+     PumpPressure2: 1.238305687 V
+ch> boost 1 22
+Setting voltage to 22.000000000 (DAC:2072)
+ch> adc
+Voltages as seen on the ADC inputs of the STM32.
+ PumpBoostVoltage1: 0.927319347 V
+      PumpCurrent1: 0.393164068 V Current Measured at 0.089V
+     PumpPressure1: 1.276171803 V
+
+ PumpBoostVoltage2: 0.248950198 V
+      PumpCurrent2: 0.361743152 V
+     PumpPressure2: 1.239111304 V
+ch> boost 2 22
+Setting voltage to 22.000000000 (DAC:2072)
+ch> adc
+Voltages as seen on the ADC inputs of the STM32.
+ PumpBoostVoltage1: 0.928124964 V
+      PumpCurrent1: 0.389135748 V
+     PumpPressure1: 1.276171803 V
+
+ PumpBoostVoltage2: 0.883007824 V
+      PumpCurrent2: 0.362548828 V
+     PumpPressure2: 1.240722656 V
+ch>
+ChibiOS/RT Shell
+ch>
+ChibiOS/RT Shell
+ch> boost 1 0
+Setting voltage to 0.000000000 (DAC:3209)
+ch>
